@@ -5,7 +5,7 @@ keywords:
 timezone: Australia/Sydney
 google_analytics: UA-156994664-1
 
-baseurl: /
+baseurl:
 
 sass:
   sass_dir: /assets/sass
