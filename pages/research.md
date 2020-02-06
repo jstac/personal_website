@@ -60,12 +60,12 @@ North-Holland, 2005
 Qingyin Ma, John Stachurski, and Alexis Akira Toda  
 **Journal of Economic Theory**, in press 2020
 
-[Dynamic Programming Deconstructed](https://arxiv.org/abs/1811.01940)
+[Dynamic Programming Deconstructed](https://arxiv.org/abs/1811.01940)  
 Qingyin Ma and John Stachurski  
 **Operations Research**, in press 2020
 
 
-[Trade Clustering and Power Laws in Financial Markets](/pdfs/herding.pdf)
+[Trade Clustering and Power Laws in Financial Markets](/pdfs/herding.pdf)  
 Makoto Nirei, John Stachurski and Tsutomu Watanabe
 **Theoretical Economics**, in press 2020
 
