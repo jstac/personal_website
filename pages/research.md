@@ -58,31 +58,30 @@ North-Holland, 2005
 
 [The Income Fluctuation Problem and the Evolution of Wealth](https://arxiv.org/abs/1905.13045)  
 Qingyin Ma, John Stachurski, and Alexis Akira Toda  
-**Journal of Economic Theory**, in press 2020
+**Journal of Economic Theory**, in press 2020 
 
 [Dynamic Programming Deconstructed](https://arxiv.org/abs/1811.01940)  
 Qingyin Ma and John Stachurski  
-**Operations Research**, in press 2020
+**Operations Research**, in press 2020 
 
 
 [Trade Clustering and Power Laws in Financial Markets](/pdfs/herding.pdf)  
-Makoto Nirei, John Stachurski and Tsutomu Watanabe
-**Theoretical Economics**, in press 2020
+Makoto Nirei, John Stachurski and Tsutomu Watanabe 
+**Theoretical Economics**, in press 2020 
 
 [Necessary and Sufficient Conditions for Existence and Uniqueness of Recursive Utilities](https://arxiv.org/abs/1710.06526)  
 Jaroslav Borovicka and John Stachurski  
-**Journal of Finance**, in press 2020
+**Journal of Finance**, in press 2020 
 
 [A Unified Stability Theory for Classical and Monotone Markov Chains](/pdfs/tov5.pdf)  
 Takashi Kamihigashi and John Stachurski  
 **Journal of Applied Probability**, 56-1, 2019
 
-[An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity](https://arxiv.org/abs/1807.08404)
+[An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity](https://arxiv.org/abs/1807.08404) 
 John Stachurski and Alexis Akira Toda  
-**Journal of Economic Theory**, 182, 1--24, July 2019
+**Journal of Economic Theory**, 182, 1--24, July 2019 
 
-[Optimal Timing of Decisions: A General Theory Based on Continuation
-Values](https://github.com/jstac/optimal_timing_decisions)  
+[Optimal Timing of Decisions: A General Theory Based on Continuation Values](https://github.com/jstac/optimal_timing_decisions)  
 Qingyin Ma and John Stachurski  
 **Journal of Economic Dynamics and Control**, 101, 62--81, 2019
 
