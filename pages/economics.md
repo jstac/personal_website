@@ -15,9 +15,7 @@ Pasternak
 
 # Economics Dynamics
 
-I’m currently based at the
-[Research School of Economics](http://rse.anu.edu.au>) at
-Australian National University.
+I’m currently based at the [Research School of Economics](http://rse.anu.edu.au>) at Australian National University.
 
 ![](/images/goo.png)
 
@@ -29,8 +27,7 @@ Australian National University.
 - Time series analysis
 - Assorted outliers, including the theory of the firm
 
-You can find my publications [here](research) and my CV
-[here](/pdfs/cv.pdf).
+You can find my publications [here](research) and my CV [here](/pdfs/cv.pdf).
 
 ## Coauthors
 

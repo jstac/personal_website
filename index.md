@@ -9,22 +9,21 @@ order: 0
 
 A brief self-introduction: I like mathematics and programming, which is
 good because they occupy most of my waking hours, along with some of my
-dreams..
+dreams.  Currently I'm based at Australian National University, working on
+optimization and equilibrium problems in economics and finance. 
 
-Currently I am a professor at Australian National University, working on
-optimization and equilibrium problems in economics and finance. I'm also
-a co-founded of [QuantEcon](https://quantecon.org/), a US-based
-nonprofit organization that supports open source software for
-computational modeling in economics and related fields.
+In 2016, [Tom Sargent](http://www.tomsargent.com/) and I founded
+[QuantEcon](https://quantecon.org/), a US-based nonprofit organization that
+supports open source software for computational modeling in economics and
+related fields. 
 
-I have a book buying habit, especially when it comes to maths books.
-
-In my spare time I enjoy table tennis, fishing, camping, cooking, riding
-around on my
-[F800R](http://www.motorcycle-usa.com/2014/11/article/2015-bmw-f800r-first-look),
+I have a book buying habit, especially when it comes to maths books.  In my
+spare time I enjoy table tennis, fishing, camping, cooking, riding around on
+my [F800R](http://www.motorcycle-usa.com/2014/11/article/2015-bmw-f800r-first-look),
 listening to music, hanging out with my family and drinking beer with my
-buddies. Like my Dad, I am interested in world history and anything to
-do with the ocean. Like my Mum, I love hiking and mountains.
+buddies. Like my Dad, I am interested in world history and anything to do with
+the ocean. Like my Mum, I love hiking, rivers and mountains.
+
 
 ## Contact
 
