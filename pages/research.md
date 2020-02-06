@@ -26,11 +26,11 @@ Guanlong Ren and John Stachurski
 June 2019
 
 [Dynamic Programming with State-Dependent Discounting](https://arxiv.org/abs/1908.08800)  
-John Stachurski and Junnan Zhang  
+John Stachurski and Junnan Zhang   
 June 2019
 
-[Coase Meets Bellman: Dynamic Programming and Production Chains](https://arxiv.org/abs/1908.10557)  
-Tomoo Kikuchi, Kazuo Nishimura, John Stachurski, and Junnan Zhang  
+[Coase Meets Bellman: Dynamic Programming and Production Chains](https://arxiv.org/abs/1908.10557)   
+Tomoo Kikuchi, Kazuo Nishimura, John Stachurski, and Junnan Zhang   
 May 2019
 
 
@@ -57,32 +57,32 @@ North-Holland, 2005
 ## Refereed Articles
 
 [The Income Fluctuation Problem and the Evolution of Wealth](https://arxiv.org/abs/1905.13045)  
-Qingyin Ma, John Stachurski, and Alexis Akira Toda  
+Qingyin Ma, John Stachurski, and Alexis Akira Toda   
 **Journal of Economic Theory**, in press 2020 
 
 [Dynamic Programming Deconstructed](https://arxiv.org/abs/1811.01940)  
-Qingyin Ma and John Stachurski  
+Qingyin Ma and John Stachurski   
 **Operations Research**, in press 2020 
 
 
-[Trade Clustering and Power Laws in Financial Markets](/pdfs/herding.pdf)  
-Makoto Nirei, John Stachurski and Tsutomu Watanabe 
+[Trade Clustering and Power Laws in Financial Markets](/pdfs/herding.pdf)   
+Makoto Nirei, John Stachurski and Tsutomu Watanabe  
 **Theoretical Economics**, in press 2020 
 
 [Necessary and Sufficient Conditions for Existence and Uniqueness of Recursive Utilities](https://arxiv.org/abs/1710.06526)  
-Jaroslav Borovicka and John Stachurski  
-**Journal of Finance**, in press 2020 
+Jaroslav Borovicka and John Stachurski   
+**Journal of Finance**, in press 2020  
 
 [A Unified Stability Theory for Classical and Monotone Markov Chains](/pdfs/tov5.pdf)  
-Takashi Kamihigashi and John Stachurski  
-**Journal of Applied Probability**, 56-1, 2019
+Takashi Kamihigashi and John Stachurski   
+**Journal of Applied Probability**, 56-1, 2019  
 
-[An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity](https://arxiv.org/abs/1807.08404) 
-John Stachurski and Alexis Akira Toda  
-**Journal of Economic Theory**, 182, 1--24, July 2019 
+[An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity](https://arxiv.org/abs/1807.08404)  
+John Stachurski and Alexis Akira Toda   
+**Journal of Economic Theory**, 182, 1--24, July 2019  
 
-[Optimal Timing of Decisions: A General Theory Based on Continuation Values](https://github.com/jstac/optimal_timing_decisions)  
-Qingyin Ma and John Stachurski  
+[Optimal Timing of Decisions: A General Theory Based on Continuation Values](https://github.com/jstac/optimal_timing_decisions)   
+Qingyin Ma and John Stachurski   
 **Journal of Economic Dynamics and Control**, 101, 62--81, 2019
 
 [Volatile Capital Flows and Financial Integration: The Role of Moral Hazard](https://github.com/jstac/cycles_moral_hazard)  
