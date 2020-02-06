@@ -49,8 +49,7 @@ John Stachurski
 
 [Poverty Traps](https://github.com/jstac/poverty_traps)  
 Costas Azariadis and John Stachurski  
-**Handbook of Economic Growth**, S. Durlauf and P. Aghion, eds,
-North-Holland, 2005
+**Handbook of Economic Growth**, S. Durlauf and P. Aghion, eds, North-Holland, 2005
 
 
 
@@ -86,11 +85,11 @@ Qingyin Ma and John Stachurski
 **Journal of Economic Dynamics and Control**, 101, 62--81, 2019
 
 [Volatile Capital Flows and Financial Integration: The Role of Moral Hazard](https://github.com/jstac/cycles_moral_hazard)  
-Tomoo Kikuchi, John Stachurski and George Vachadze
+Tomoo Kikuchi, John Stachurski and George Vachadze  
 **Journal of Economic**
 
-[Span of Control, Transaction Costs and the Structure of Production Chains](https://github.com/jstac/production_chains)
-Tomoo Kikuchi, Kazuo Nishimura and John Stachurski
+[Span of Control, Transaction Costs and the Structure of Production Chains](https://github.com/jstac/production_chains)  
+Tomoo Kikuchi, Kazuo Nishimura and John Stachurski  
 **Theoretical Economics**, 13 (2), 729-760, 2018
 
 [Seeking Ergodicity in Dynamic Economies](/pdfs/mmc_lln.pdf)
