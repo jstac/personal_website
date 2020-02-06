@@ -13,37 +13,26 @@ Vilenkin, "In Search of Infinity"
 
 # Research
 
+
 ## Working Papers
 
-[Dynamic Programming Deconstructed](https://arxiv.org/abs/1811.01940)
-(slides are [here](/pdfs/dpd_main.pdf))  
-Qingyin Ma and John Stachurski  
-July 2019
 
-[Stability of Equilibrium Asset Pricing Models: A Necessary and
-Sufficient Condition](https://arxiv.org/abs/1910.00778)  
+[Stability of Equilibrium Asset Pricing Models: A Necessary and Sufficient Condition](https://arxiv.org/abs/1910.00778)  
 Jaroslav Borovicka and John Stachurski  
 August 2019
 
-[Discrete Time Dynamic Programming with Recursive Preferences:
-Optimality and Applications](https://arxiv.org/abs/1812.05748)  
+[Discrete Time Dynamic Programming with Recursive Preferences: Optimality and Applications](https://arxiv.org/abs/1812.05748)  
 Guanlong Ren and John Stachurski  
 June 2019
 
-[Dynamic Programming with State-Dependent
-Discounting](https://arxiv.org/abs/1908.08800)  
+[Dynamic Programming with State-Dependent Discounting](https://arxiv.org/abs/1908.08800)  
 John Stachurski and Junnan Zhang  
 June 2019
 
-[Coase Meets Bellman: Dynamic Programming and Production
-Chains](https://arxiv.org/abs/1908.10557)  
+[Coase Meets Bellman: Dynamic Programming and Production Chains](https://arxiv.org/abs/1908.10557)  
 Tomoo Kikuchi, Kazuo Nishimura, John Stachurski, and Junnan Zhang  
 May 2019
 
-[The Income Fluctuation Problem and the Evolution of
-Wealth](https://arxiv.org/abs/1905.13045)  
-Qingyin Ma, John Stachurski, and Alexis Akira Toda  
-May 2019
 
 ## Books
 
@@ -55,6 +44,7 @@ John Stachurski
 John Stachurski  
 **MIT Press**, 2016
 
+
 ## Chapters in Books
 
 [Poverty Traps](https://github.com/jstac/poverty_traps)  
@@ -62,12 +52,26 @@ Costas Azariadis and John Stachurski
 **Handbook of Economic Growth**, S. Durlauf and P. Aghion, eds,
 North-Holland, 2005
 
+
+
 ## Refereed Articles
 
-[Necessary and Sufficient Conditions for Existence and Uniqueness of
-Recursive Utilities](https://arxiv.org/abs/1710.06526)  
+[The Income Fluctuation Problem and the Evolution of Wealth](https://arxiv.org/abs/1905.13045)  
+Qingyin Ma, John Stachurski, and Alexis Akira Toda  
+**Journal of Economic Theory**, in press 2020
+
+[Dynamic Programming Deconstructed](https://arxiv.org/abs/1811.01940)
+Qingyin Ma and John Stachurski  
+**Operations Research**, in press 2020
+
+
+[Trade Clustering and Power Laws in Financial Markets](/pdfs/herding.pdf)
+Makoto Nirei, John Stachurski and Tsutomu Watanabe
+**Theoretical Economics**, in press 2020
+
+[Necessary and Sufficient Conditions for Existence and Uniqueness of Recursive Utilities](https://arxiv.org/abs/1710.06526)  
 Jaroslav Borovicka and John Stachurski  
-**Journal of Finance**, in press 2019
+**Journal of Finance**, in press 2020
 
 [A Unified Stability Theory for Classical and Monotone Markov Chains](/pdfs/tov5.pdf)  
 Takashi Kamihigashi and John Stachurski  
