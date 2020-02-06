@@ -86,7 +86,7 @@ Qingyin Ma and John Stachurski
 
 [Volatile Capital Flows and Financial Integration: The Role of Moral Hazard](https://github.com/jstac/cycles_moral_hazard)  
 Tomoo Kikuchi, John Stachurski and George Vachadze  
-**Journal of Economic**
+**Journal of Economic Theory**, 176, 170--192, 2018
 
 [Span of Control, Transaction Costs and the Structure of Production Chains](https://github.com/jstac/production_chains)  
 Tomoo Kikuchi, Kazuo Nishimura and John Stachurski  
