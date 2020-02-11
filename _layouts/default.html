@@ -100,16 +100,24 @@ append: site.title %} {% else %} {% assign page_title = site.title %} {% endif
           </ul>
         </nav>
 
-        <!--
-        <div class="search">
+        <div class="site-search">
           <h2>Search</h2>
 
-          <form>
-            <input type="text" name="q" />
-            <input type="submit" value="Go" />
-          </form>
+          <script
+            async=""
+            src="https://cse.google.com/cse.js?cx=006559439261123061640:w7rrtjcuozm"
+          ></script>
+          <div
+            class="gcse-searchbox-only"
+            data-resultsurl="/search"
+            enableautocomplete="true"
+          ></div>
+          <script>
+            window.onload = function() {
+              document.getElementById('gsc-i-id1').placeholder = 'Search';
+            };
+          </script>
         </div>
-        -->
       </div>
 
       <div class="content">
