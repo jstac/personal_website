@@ -16,8 +16,7 @@ entails a mathematical model._ – Richard Bellman
 # A Primer in Econometric Theory
 
 This is the homepage for my graduate level econometric theory text,
-published
-[by MIT Press](https://mitpress.mit.edu/books/primer-econometric-theory).
+published [by MIT Press](https://mitpress.mit.edu/books/primer-econometric-theory).
 
 ## About
 
@@ -44,12 +43,7 @@ The following is from the preface to the book:
 
 Thanks to the work of
 [Akshay Shanker](https://github.com/akshayshanker), a full set
-of lectures slides are available – both PDF and source (TeX)
-
-- Lecture 1 [PDF](/pdfs/Lecture_1.pdf)|
-  [LaTeX](/downloads/Lecture_1.tex))
-- All other PDFs and source files are available
-  [from GitHub](https://github.com/jstac/econometric_theory_slides)
+of lectures slides are available [from GitHub](https://github.com/jstac/econometric_theory_slides) -- both PDF and source (TeX)
 
 They are licensed under BSD-3 and you are free to modify them in any way
 you wish.
@@ -62,13 +56,8 @@ The code in the book is written in a mixture of
 [Julia](http://julialang.org/) and organized into
 [Jupyter notebooks](https://jupyter.org/).
 
-You can either
-
-- run the notebooks live in your browser or
-
-- download them and run them locally
-
-Details follow.
+You can either run the notebooks live in your browser or
+download them and run them locally.
 
 ### Run the Notebooks Live
 
@@ -78,34 +67,16 @@ you won’t be able to save your changes.
 
 - [run the notebooks live in your browser](http://ec2-52-21-49-3.compute-1.amazonaws.com:8000)
 
+
 ### Download and Run Locally
 
 The first step is to get hold of the notebooks themselves. You can do
-this by cloning
-[the GitHub repository](https://github.com/jstac/econometrics>) or
-just grabbing
-[the zip file](https://github.com/jstac/econometrics/archive/master.zip).
+this by cloning [the GitHub repository](https://github.com/jstac/econometrics>) or
+just grabbing [the zip file](https://github.com/jstac/econometrics/archive/master.zip).
 
-The next step is to install some combination of R, Python and Julia,
-depending on what notebooks you want to execute. The notebooks themseves
-tell you which language they use.
+The next step is to install [Jupyter](https://jupyter.org/), which comes
+bundled with the [Anaconda Python](https://www.anaconda.com/distribution/).
+Then, if you want to run the R and Julia code, you'll need the appropriate
+kernels.  Search for documentation on how to run R and Julia code in a Jupyter
+notebook.
 
-Whatever languages you want to use, you will need
-[Jupyter](https://jupyter.org/). This comes bundled in the
-[Anaconda Python distribution](https://www.continuum.io/downloads),
-which provides Jupyter, Python and some great scientific tools for
-working with Python.
-
-I highly recommend it.
-
-You are now ready to run any Jupyter notebooks that contain Python code.
-To run the notebooks with Julia code you need to install Julia and the
-[IJulia](https://github.com/JuliaLang/IJulia.jl) package.
-[These instructions](https://lectures.quantecon.org/jl/getting_started.html)
-provide more information.
-
-To work with R in Jupyter notebooks try
-[reading this](https://www.continuum.io/blog/developer/jupyter-and-conda-r).
-
-Now start Jupyter and point it at the notebooks you’ve just downloaded
-and you’ll be in business.
