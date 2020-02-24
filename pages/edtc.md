@@ -16,7 +16,7 @@ Peter Whittle
 # Economic Dynamics
 
 This is the homepage for
-[Economic Dynamics: Theory and Computation](http://www.amazon.com/Economic-Dynamics-Computation-John-Stachurski/dp/0262012774>),
+[Economic Dynamics: Theory and Computation](https://www.amazon.com/Economic-Dynamics-Theory-Computation-Press/dp/0262012774),
 a graduate level introduction to deterministic and stochastic dynamics,
 dynamic programming and computational methods with economic
 applications.
@@ -47,7 +47,7 @@ techniques for analyzing and simulating random dynamic models.
 
 ### Samples
 
-- [Table of Contents](/book_samples/toc.pdf)
+- [Table of Contents](/pdfs/book_samples/toc.pdf)
 - [Introduction](/pdfs/book_samples/sample1.pdf)
 - [Chapter 2: Introduction to Programming](/pdfs//book_samples/sample2.pdf)
 - [Chapter 6: Simulation and Dynamic Programming](/pdfs/book_samples/sample3.pdf)

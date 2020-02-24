@@ -84,8 +84,10 @@ Infinity" by N. Ya. Vilenkin.
 
 ## Other Bits and Pieces
 
-I love the work of Escher, especially [this one](http://www.wikipaintings.org/en/m-c-escher/circle-limit-iv). And [here's](http://www.tumblr.com/tagged/proof-that-girls-are-evil) an interesting little equation
-about girls and evil.
+I love the work of Escher, especially [this
+one](http://www.wikipaintings.org/en/m-c-escher/circle-limit-iv). And
+[here's](https://almaer.com/blog/mathematical-proof-that-girls-are-evil) an
+interesting little equation about girls and evil.
 
 Incidentally, the man generally recognized as the founder of modern functional analysis is
 [Stefan Banach](http://en.wikipedia.org/wiki/Stefan_Banach).

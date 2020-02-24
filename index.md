@@ -19,7 +19,7 @@ related fields.
 
 I have a book buying habit, especially when it comes to maths books.  In my
 spare time I enjoy table tennis, fishing, camping, cooking, riding around on
-my [F800R](http://www.motorcycle-usa.com/2014/11/article/2015-bmw-f800r-first-look),
+my [F800R](https://en.wikipedia.org/wiki/BMW_F800R),
 listening to music, hanging out with my family and drinking beer with my
 buddies. Like my Dad, I am interested in world history and anything to do with
 the ocean. Like my Mum, I love hiking, rivers and mountains.

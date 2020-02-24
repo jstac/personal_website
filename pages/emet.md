@@ -71,7 +71,7 @@ you won’t be able to save your changes.
 ### Download and Run Locally
 
 The first step is to get hold of the notebooks themselves. You can do
-this by cloning [the GitHub repository](https://github.com/jstac/econometrics>) or
+this by cloning [the GitHub repository](https://github.com/jstac/econometrics) or
 just grabbing [the zip file](https://github.com/jstac/econometrics/archive/master.zip).
 
 The next step is to install [Jupyter](https://jupyter.org/), which comes
