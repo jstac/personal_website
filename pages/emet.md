@@ -53,30 +53,13 @@ you wish.
 The code in the book is written in a mixture of
 [R](https://www.r-project.org/),
 [Python](https://www.python.org/) and
-[Julia](http://julialang.org/) and organized into
-[Jupyter notebooks](https://jupyter.org/).
-
-You can either run the notebooks live in your browser or
-download them and run them locally.
-
-### Run the Notebooks Live
-
-This is good option for experimenting. You can run, edit and rerun the
-code in your browser without having to install any software. However,
-you won’t be able to save your changes.
-
-- [run the notebooks live in your browser](http://ec2-52-21-49-3.compute-1.amazonaws.com:8000)
-
-
-### Download and Run Locally
-
-The first step is to get hold of the notebooks themselves. You can do
-this by cloning [the GitHub repository](https://github.com/jstac/econometrics) or
+[Julia](http://julialang.org/).  It is organized into
+[Jupyter notebooks](https://jupyter.org/),
+which you can get by cloning [the GitHub repository](https://github.com/jstac/econometrics) or
 just grabbing [the zip file](https://github.com/jstac/econometrics/archive/master.zip).
 
 The next step is to install [Jupyter](https://jupyter.org/), which comes
 bundled with the [Anaconda Python](https://www.anaconda.com/distribution/).
 Then, if you want to run the R and Julia code, you'll need the appropriate
-kernels.  Search for documentation on how to run R and Julia code in a Jupyter
-notebook.
+kernels.  Search for documentation on how to run R and Julia code in a Jupyter notebook.
 
