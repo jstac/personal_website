@@ -21,6 +21,10 @@ Vilenkin, "In Search of Infinity"
 Jaroslav Borovicka and John Stachurski  
 August 2019
 
+[Stability of Equilibrium Asset Pricing Models: A Necessary and Sufficient Condition](https://arxiv.org/abs/1910.00778)  
+Jaroslav Borovicka and John Stachurski  
+August 2019
+
 [Discrete Time Dynamic Programming with Recursive Preferences: Optimality and Applications](https://arxiv.org/abs/1812.05748)  
 Guanlong Ren and John Stachurski  
 June 2019
@@ -54,6 +58,10 @@ Costas Azariadis and John Stachurski
 
 
 ## Refereed Articles
+
+[Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity"](/pdfs/corrigendum.pdf)  
+John Stachurski and Alexis Akira Toda   
+**Journal of Economic Theory**, in press 2020  
 
 [The Income Fluctuation Problem and the Evolution of Wealth](https://arxiv.org/abs/1905.13045)  
 Qingyin Ma, John Stachurski, and Alexis Akira Toda   
