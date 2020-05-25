@@ -13,11 +13,26 @@ Pasternak
 
 ---
 
-# Economics Dynamics
+# Economics
 
-I’m currently based at the [Research School of Economics](http://rse.anu.edu.au) at Australian National University.
+I’m currently based at the [Research School of
+Economics](http://rse.anu.edu.au) at Australian National University.
 
-![](/images/goo.png)
+I am interested in recursive methods.  Here's a funny story about that: I was
+fascinated when I first read Ronald Coase's 1937 paper *The nature of the
+firm*. At twenty pages and containing exactly zero equations, it's a
+masterpiece of creativity and clear thought.  I tried to formalize the key
+ideas mathematically on and off for three years.  Then one night I watched a
+movie about finding yourself in a dream within a dream within a dream -- you
+might know the one I'm talking about.  When you wake up from dream *n*, you
+find yourself in dream *n-1*.  Which is pretty much how recursive function
+calls work, with each dream mapped to a collection of variables on the stack.
+When I woke from my own dreams the next morning, I wrote down a recursive
+formulation of the problem faced by firms.  I made more progress in 5 minutes
+than in all of the past three years.
+
+You can find that work, and some other things I've done, in my [list of
+publications](research).
 
 ## Research Interests
 
@@ -27,7 +42,8 @@ I’m currently based at the [Research School of Economics](http://rse.anu.edu.a
 - Time series analysis
 - Assorted outliers, including the theory of the firm
 
-You can find my publications [here](research) and my CV [here](/pdfs/cv.pdf).
+
+![](/images/goo.png)
 
 ## Coauthors
 
