@@ -18,7 +18,7 @@ supports open source software for computational modeling in economics and
 related fields. 
 
 I have a book buying habit, especially when it comes to maths books.  In my
-spare time I enjoy table tennis, fishing, camping, cooking, riding around on
+spare time I enjoy table tennis, fishing,  cooking, riding around on
 my [F800R](https://en.wikipedia.org/wiki/BMW_F800R),
 listening to music, hanging out with my family and drinking beer with my
 buddies. Like my Dad, I am interested in world history and anything to do with
@@ -31,7 +31,7 @@ the ocean. Like my Mum, I love hiking, rivers and mountains.
 
 ## Favorite maths books
 
-- See [this page](maths)
+- See [this page](mathematics)
 
 ## More favorite books
 
