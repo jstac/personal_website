@@ -56,12 +56,12 @@ Costas Azariadis and John Stachurski
 ## Refereed Articles
 
 
-[Partial Stochastic Dominance via Optimal Transport](/pdf/partial_sd.pdf)
-Takashi Kamihigashi and John Stachurski
+[Partial Stochastic Dominance via Optimal Transport](/pdf/partial_sd.pdf)  
+Takashi Kamihigashi and John Stachurski  
 **Operations Research Letters**, in press 2020
 
-[Reproducibly Sampling SARS-CoV-2 Genomes Across Time, Geography, and Viral Diversity](https://f1000research.com/articles/9-657)
-with J. Gregory Caporaso et al. 
+[Reproducibly Sampling SARS-CoV-2 Genomes Across Time, Geography, and Viral Diversity](https://f1000research.com/articles/9-657)  
+with J. Gregory Caporaso et al.   
 **F1000 Research**, in press 2020
 
 [Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity"](/pdfs/corrigendum.pdf)  
