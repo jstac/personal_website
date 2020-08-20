@@ -56,7 +56,7 @@ Costas Azariadis and John Stachurski
 ## Refereed Articles
 
 
-[Partial Stochastic Dominance via Optimal Transport](/pdf/partial_sd.pdf)  
+[Partial Stochastic Dominance via Optimal Transport](/pdfs/partial_sd.pdf)  
 Takashi Kamihigashi and John Stachurski  
 **Operations Research Letters**, in press 2020
 
