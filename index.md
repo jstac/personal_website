@@ -25,6 +25,9 @@ buddies. Like my Dad, I am interested in world history and anything to do with
 the ocean. Like my Mum, I love hiking, rivers and mountains.
 
 
+![](/images/rivers.png)
+
+
 ## Contact
 
 - <john.stachurski@gmail.com>
