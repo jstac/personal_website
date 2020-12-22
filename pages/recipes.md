@@ -5,14 +5,6 @@ menu_item: true
 order: 9
 ---
 
-**Random Quote:** _Ordinarily, people are anxious to test their theories
-in practice, to learn from experience, but those who wield power are so
-anxious to establish the myth of their own infallibility that they turn
-their backs on the truth as squarely as they can. Politics means nothing
-to me. I don’t like people who are indifferent to the truth._ – Boris
-Pasternak
-
----
 
 # Recipes
 

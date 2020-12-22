@@ -5,6 +5,14 @@ menu_item: true
 order: 0
 ---
 
+**Random Quote:** _Ordinarily, people are anxious to test their theories
+in practice, to learn from experience, but those who wield power are so
+anxious to establish the myth of their own infallibility that they turn
+their backs on the truth as squarely as they can. Politics means nothing
+to me. I don’t like people who are indifferent to the truth._ – Boris
+Pasternak
+
+---
 # John Stachurski
 
 A brief self-introduction: I like mathematics and programming, which is
@@ -18,11 +26,11 @@ supports open source software for computational modeling in economics and
 related fields. 
 
 I have a book buying habit, especially when it comes to maths books.  In my
-spare time I enjoy table tennis, fishing,  cooking, riding around on
-my [F800R](https://en.wikipedia.org/wiki/BMW_F800R),
-listening to music, hanging out with my family and drinking beer with my
-buddies. Like my Dad, I am interested in world history and anything to do with
-the ocean. Like my Mum, I love hiking, rivers and mountains.
+spare time I enjoy table tennis, sailing, fishing, skating, cooking,
+badminton, riding around on my [F800R](https://en.wikipedia.org/wiki/BMW_F800R), listening to music, hanging
+out with my family and drinking beer with my no good friends. Like my Dad, I
+am interested in world history and anything to do with the ocean. Like my Mum,
+I love hiking, rivers and mountains.
 
 
 

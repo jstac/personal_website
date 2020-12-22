@@ -18,18 +18,15 @@ Pasternak
 I’m currently based at the [Research School of
 Economics](http://rse.anu.edu.au) at Australian National University.
 
-I am interested in recursive methods.  Here's a funny story about that: I was
-fascinated when I first read Ronald Coase's 1937 paper *The nature of the
-firm*. At twenty pages and containing exactly zero equations, it's a
-masterpiece of creativity and clear thought.  I tried to formalize the key
-ideas mathematically on and off for three years.  Then one night I watched a
-movie about finding yourself in a dream within a dream within a dream -- you
-might know the one I'm talking about.  When you wake up from dream *n*, you
-find yourself in dream *n-1*.  Which is pretty much how recursive function
-calls work, with each dream mapped to a collection of variables on the stack.
-When I woke from my own dreams the next morning, I wrote down a recursive
-formulation of the problem faced by firms.  I made more progress in 5 minutes
-than in all of the past three years.
+I am interested in recursive methods.  Here's a funny story about that: Ronald
+Coase's 1937 paper *The nature of the firm* is a masterpiece of creativity and
+clear thought.  I tried to formalize the main ideas mathematically for around
+three years.  Then one night I watched a movie about having a dream within a
+dream within a dream --- maybe you know the one I'm talking about?  When you
+wake up from dream *n*, you find yourself in dream *n-1*, etc., which is kind
+of like the unwinding of a recursive function call.  I went to sleep dreaming
+about recursion, and when I woke up I wrote down a recursive formulation of
+the problem faced by firms.  Finally I was on the path to a solution!
 
 You can find that work, and some other things I've done, in my [list of
 publications](research).
