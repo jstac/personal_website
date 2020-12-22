@@ -13,7 +13,7 @@ to me. I don’t like people who are indifferent to the truth._ – Boris
 Pasternak
 
 ---
-# John Stachurski
+# John Stachurski: Born to Fish, Forced to Work
 
 A brief self-introduction: I like mathematics and programming, which is
 good because they occupy most of my waking hours, along with some of my
