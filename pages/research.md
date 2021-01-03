@@ -21,8 +21,8 @@ Vilenkin, "In Search of Infinity"
 Jaroslav Borovicka and John Stachurski  
 January 2021
 
-[Unbounded Dynamic Programming via the Q-Learning Transform](https://arxiv.org/abs/2012.00219)
-Qingyin Ma, John Stachurski and Alexis Akira Toda
+[Unbounded Dynamic Programming via the Q-Learning Transform](https://arxiv.org/abs/2012.00219) 
+Qingyin Ma, John Stachurski and Alexis Akira Toda  
 December 2020
 
 [Discrete Time Dynamic Programming with Recursive Preferences: Optimality and Applications](https://arxiv.org/abs/1812.05748)  
