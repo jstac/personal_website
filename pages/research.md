@@ -25,10 +25,6 @@ August 2019
 Guanlong Ren and John Stachurski  
 June 2019
 
-[Dynamic Programming with State-Dependent Discounting](https://arxiv.org/abs/1908.08800)  
-John Stachurski and Junnan Zhang   
-June 2019
-
 [Coase Meets Bellman: Dynamic Programming and Production Chains](https://arxiv.org/abs/1908.10557)   
 Tomoo Kikuchi, Kazuo Nishimura, John Stachurski, and Junnan Zhang   
 May 2019
@@ -55,35 +51,33 @@ Costas Azariadis and John Stachurski
 
 ## Refereed Articles
 
-
-[Partial Stochastic Dominance via Optimal Transport](/pdfs/partial_sd.pdf)  
-Takashi Kamihigashi and John Stachurski  
-**Operations Research Letters**, in press 2020
-
-[Reproducibly Sampling SARS-CoV-2 Genomes Across Time, Geography, and Viral Diversity](https://f1000research.com/articles/9-657)  
-with J. Gregory Caporaso et al.   
-**F1000 Research**, in press 2020
-
-[Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity"](/pdfs/corrigendum.pdf)  
-John Stachurski and Alexis Akira Toda   
-**Journal of Economic Theory**, in press 2020  
-
-[The Income Fluctuation Problem and the Evolution of Wealth](https://arxiv.org/abs/1905.13045)  
-Qingyin Ma, John Stachurski, and Alexis Akira Toda   
-**Journal of Economic Theory**, in press 2020 
+[Dynamic Programming with State-Dependent Discounting](https://arxiv.org/abs/1908.08800)  
+John Stachurski and Junnan Zhang   
+**Journal of Economic Theory**, in press 2021 
 
 [Dynamic Programming Deconstructed](https://arxiv.org/abs/1811.01940)  
 Qingyin Ma and John Stachurski   
-**Operations Research**, in press 2020 
+**Operations Research**, in press, 2021 
 
+[Partial Stochastic Dominance via Optimal Transport](/pdfs/partial_sd.pdf)  
+Takashi Kamihigashi and John Stachurski  
+**Operations Research Letters**, 48(5), 584-586, 2020
+
+[Reproducibly Sampling SARS-CoV-2 Genomes Across Time, Geography, and Viral Diversity](https://f1000research.com/articles/9-657)  
+with J. Gregory Caporaso et al.   
+**F1000 Research**, article 9-657, 2020
+
+[The Income Fluctuation Problem and the Evolution of Wealth](https://arxiv.org/abs/1905.13045)  
+Qingyin Ma, John Stachurski, and Alexis Akira Toda   
+**Journal of Economic Theory**, 187, 2020 
 
 [Trade Clustering and Power Laws in Financial Markets](/pdfs/herding.pdf)   
 Makoto Nirei, John Stachurski and Tsutomu Watanabe  
-**Theoretical Economics**, in press 2020 
+**Theoretical Economics**, 15(4), 1365-1398, 2020 
 
 [Necessary and Sufficient Conditions for Existence and Uniqueness of Recursive Utilities](https://arxiv.org/abs/1710.06526)  
 Jaroslav Borovicka and John Stachurski   
-**Journal of Finance**, in press 2020  
+**Journal of Finance**, 75(3), 1457-1493, 2020  
 
 [A Unified Stability Theory for Classical and Monotone Markov Chains](/pdfs/tov5.pdf)  
 Takashi Kamihigashi and John Stachurski   
@@ -219,7 +213,12 @@ John Stachurski
 John Stachurski, Alain Venditti and Makoto Yano (eds)  
 **Springer**, 2012
 
+
 # Other Material
+
+[Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity"](/pdfs/corrigendum.pdf)  
+John Stachurski and Alexis Akira Toda   
+**Journal of Economic Theory**, in press 2020  
 
 [A Hilbert Space Central Limit Theorem for Geometrically Ergodic Markov Chains](/pdfs/5clt.pdf)  
 John Stachurski  
