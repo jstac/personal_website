@@ -19,15 +19,19 @@ Vilenkin, "In Search of Infinity"
 
 [Stability of Equilibrium Asset Pricing Models: A Necessary and Sufficient Condition](https://arxiv.org/abs/1910.00778)  
 Jaroslav Borovicka and John Stachurski  
-August 2019
+January 2021
+
+[Unbounded Dynamic Programming via the Q-Learning Transform](https://arxiv.org/abs/2012.00219)
+Qingyin Ma, John Stachurski and Alexis Akira Toda
+December 2020
 
 [Discrete Time Dynamic Programming with Recursive Preferences: Optimality and Applications](https://arxiv.org/abs/1812.05748)  
 Guanlong Ren and John Stachurski  
-June 2019
+December 2020
 
 [Coase Meets Bellman: Dynamic Programming and Production Chains](https://arxiv.org/abs/1908.10557)   
 Tomoo Kikuchi, Kazuo Nishimura, John Stachurski, and Junnan Zhang   
-May 2019
+November 2020
 
 
 ## Books
