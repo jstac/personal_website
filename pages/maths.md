@@ -5,12 +5,15 @@ menu_item: true
 order: 2
 ---
 
-**Random Quote:** _Freedom of thought is the only guarantee against an
-infection of mankind by mass myths, which, in the hands of treacherous
-hypocrites and demagogues, can be transformed into bloody dictatorships_
--- Andrei Sakharov
+**Random Quote:** _Here is my advice to you, the adventurers – fear will show
+you the way; walk steadily toward it, for otherwise you will always be
+running._ -  Yossi Ghinsberg
+
+---
 
 # Mathematics
+
+
 
 ## Interests
 
