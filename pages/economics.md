@@ -16,55 +16,34 @@ Pasternak
 # Economics
 
 I’m currently based at the [Research School of
-Economics](http://rse.anu.edu.au) at Australian National University.
+Economics](http://rse.anu.edu.au) at Australian National University.  I've
+also spent substantial amounts of time at Kyoto University and NYU.
 
-I am interested in recursive methods.  Here's a funny story about that: Ronald
-Coase's 1937 paper *The nature of the firm* is a masterpiece of creativity and
-clear thought.  I tried to formalize the main ideas mathematically for around
-three years.  Then one night I watched a movie about having a dream within a
-dream within a dream --- maybe you know the one I'm talking about?  When you
-wake up from dream *n*, you find yourself in dream *n-1*, etc., which is kind
-of like the unwinding of a recursive function call.  I went to sleep dreaming
-about recursion, and when I woke up I wrote down a recursive formulation of
-the problem faced by firms.  Finally I was on the path to a solution!
-
-You can find that work, and some other things I've done, in my [list of
-publications](research).
+You can find my papers and books in my [list of publications](research).
 
 ## Research Interests
 
-- Stochastic dynamics (stability, estimation, optimization)
-- Computational economics
-- Numerical methods, including simulation and Monte Carlo
+- Stochastic dynamics (particularly Markov processes)
+- Computational and numerical methods (simulation, algorithms, etc.)
+- Asset pricing
+- Distribution dynamics (evolution and properties of firm, income and wealth distributions)
 - Time series analysis
-- Assorted outliers, including the theory of the firm
+- Optimal transport 
+- Dynamic programming
+- Assorted outliers, including economic development and the theory of the firm
 
 
 ![](/images/goo.png)
 
 ## Coauthors
 
-- [Costas Azariadis](http://en.wikipedia.org/wiki/Costas_Azariadis)
-- [Jaroslav Borovicka](http://www.borovicka.org/)
-- [Toni Braun](http://www.frbatlanta.org/research/economists/braun_r_anton.cfm)
-- [Takashi Kamihigashi](http://www.rieb.kobe-u.ac.jp/academic/ResearchStaff/kamihigashi-j.html)
-- [Tomoo Kikuchi](https://www.researchgate.net/profile/Tomoo_Kikuchi)
-- [Huiyu Li](http://sites.google.com/site/tohuiyu/)
-- [Yin Liao](https://www.researchgate.net/profile/Yin_Liao3)
-- [Vance Martin](http://econ.unimelb.edu.au/staffprofile/vmartin.htm)
-- [Leonard J. Mirman](http://www.virginia.edu/economics/mirman.htm)
-- [Kazuo Nishimura](http://www.kier.kyoto-u.ac.jp/~nishimura/n_prof_e/index_e.html)
-- [Yoshihiko Nishiyama](http://www.kier.kyoto-u.ac.jp/~nishiyama/english.htm)
-- [Jeno Pal](https://sites.google.com/site/jenopalhomepage/)
-- [Kevin Reffett](http://wpcarey.asu.edu/directory/people/profile.cfm?person=1039534)
-- [Ryszard Rudnicki](http://www.impan.gov.pl/User/rudnicki/)
-- [Tom Sargent](https://files.nyu.edu/ts43/public/)
-- [Cuong Le Van](http://cermsem.univ-paris1.fr/le%20van/le%20van-english.htm)
+My coauthors include, in alphabetical order, Costas Azariadis, Jaroslav
+Borovicka, Toni Braun,  Yiyong Cai, Takashi Kamihigashi, Tomoo Kikuchi, Huiyu
+Li, Yin Liao, Qingyin Ma, Vance Martin, Leonard J.  Mirman, Kazuo Nishimura,
+Yoshihiko Nishiyama, Jeno Pal, Kevin Reffett,  Guanlong Ren, Ryszard Rudnicki,
+Tom Sargent,  Alexis Akira Toda, Cuong Le Van and Junnan Zhang.
 
-## PhD Students
 
-- Yiyong Cai
-- Akshay Shanker
-- Qingyin Ma
-- Guanlong Ren
-- Junnan Zhang
+## PhD Students (Chair)
+
+- Yiyong Cai, Akshay Shanker, Qingyin Ma, Guanlong Ren, Junnan Zhang, Chien Hsiang, Shu Hu
