@@ -13,13 +13,8 @@ Vilenkin, "In Search of Infinity"
 
 # Research
 
-
 ## Working Papers
 
-
-[Stability of Equilibrium Asset Pricing Models: A Necessary and Sufficient Condition](https://arxiv.org/abs/1910.00778)  
-Jaroslav Borovicka and John Stachurski  
-January 2021
 
 [Unbounded Dynamic Programming via the Q-Learning Transform](https://arxiv.org/abs/2012.00219)   
 Qingyin Ma, John Stachurski and Alexis Akira Toda  
@@ -54,6 +49,10 @@ Costas Azariadis and John Stachurski
 
 
 ## Refereed Articles
+
+[Stability of Equilibrium Asset Pricing Models: A Necessary and Sufficient Condition](https://arxiv.org/abs/1910.00778)  
+Jaroslav Borovicka and John Stachurski   
+**Journal of Economic Theory**, in press 2021  
 
 [Dynamic Programming with State-Dependent Discounting](https://arxiv.org/abs/1908.08800)  
 John Stachurski and Junnan Zhang   
