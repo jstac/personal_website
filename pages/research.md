@@ -20,10 +20,6 @@ Vilenkin, "In Search of Infinity"
 Qingyin Ma, John Stachurski and Alexis Akira Toda  
 December 2020
 
-[Discrete Time Dynamic Programming with Recursive Preferences: Optimality and Applications](https://arxiv.org/abs/1812.05748)  
-Guanlong Ren and John Stachurski  
-December 2020
-
 [Coase Meets Bellman: Dynamic Programming and Production Chains](https://arxiv.org/abs/1908.10557)   
 Tomoo Kikuchi, Kazuo Nishimura, John Stachurski, and Junnan Zhang   
 November 2020
@@ -49,6 +45,11 @@ Costas Azariadis and John Stachurski
 
 
 ## Refereed Articles
+
+[Dynamic Programming with Value Convexity](https://arxiv.org/abs/1812.05748)  
+Guanlong Ren and John Stachurski  
+March 2021 
+
 
 [Stability of Equilibrium Asset Pricing Models: A Necessary and Sufficient Condition](https://arxiv.org/abs/1910.00778)  
 Jaroslav Borovicka and John Stachurski   
