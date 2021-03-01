@@ -46,10 +46,9 @@ Costas Azariadis and John Stachurski
 
 ## Refereed Articles
 
-[Dynamic Programming with Value Convexity](https://arxiv.org/abs/1812.05748)  
-Guanlong Ren and John Stachurski  
-March 2021 
-
+[Dynamic Programming with Value Convexity](/pdfs/rcdp.pdf)  
+Guanlong Ren and John Stachurski   
+**Automatica**, in press 2021  
 
 [Stability of Equilibrium Asset Pricing Models: A Necessary and Sufficient Condition](https://arxiv.org/abs/1910.00778)  
 Jaroslav Borovicka and John Stachurski   
