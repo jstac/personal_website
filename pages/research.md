@@ -20,10 +20,6 @@ Vilenkin, "In Search of Infinity"
 Qingyin Ma, John Stachurski and Alexis Akira Toda  
 December 2020
 
-[Coase Meets Bellman: Dynamic Programming and Production Chains](https://arxiv.org/abs/1908.10557)   
-Tomoo Kikuchi, Kazuo Nishimura, John Stachurski, and Junnan Zhang   
-November 2020
-
 
 ## Books
 
@@ -45,6 +41,10 @@ Costas Azariadis and John Stachurski
 
 
 ## Refereed Articles
+
+[Coase Meets Bellman: Dynamic Programming and Production Chains](https://arxiv.org/abs/1908.10557)   
+Tomoo Kikuchi, Kazuo Nishimura, John Stachurski, and Junnan Zhang   
+**Journal of Economic Theory**, in press 2021  
 
 [Dynamic Programming with Value Convexity](/pdfs/rcdp.pdf)  
 Guanlong Ren and John Stachurski   
